@@ -45,4 +45,4 @@ If the user's eyes remain closed for **3 seconds**, the system automatically act
 
 ---
 
-## 📁 Folder Structure
+
